@@ -20,11 +20,11 @@ Feel free to clone the repository and experiment with edge detection on your own
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/Ilia-Abolhasani/Moore-Edge-Detection.git
+   git clone https://github.com/Ilia-Abolhasani/moore-edge-detection.git
    
 2. **Navigate to the project folder:**
    ```bash
-   cd Moore-Edge-Detection
+   cd moore-edge-detection
 3. **Open the Jupyter Notebook to learn and experiment:**
    ```bash
    jupyter notebook Moore Project.ipynb
